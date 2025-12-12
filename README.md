@@ -28,7 +28,7 @@ The data used, 'pdo.timeseries.ersstv5.csv', 'soi.long.csv' for PDO and SOI inde
 
 
 5. Recommended Citation:
-     Lisa Wu. 2025. Temperature and Precipitation Prediction Using SOI and PDO and Historical Weather Data. Python. V. 120525. University of California, Merced, released December 12. https://github.com/LisaWu97/ClimateDynamics/blob/main/DataPlotting120525.ipynb.
+     "Lisa Wu. 2025. Temperature and Precipitation Prediction Using SOI and PDO and Historical Weather Data. Python. V. 120525. University of California, Merced, released December 12. https://github.com/LisaWu97/ClimateDynamics/blob/main/DataPlotting120525.ipynb."
 
 
 6. Contact Info: lwu86773@gmail.com
